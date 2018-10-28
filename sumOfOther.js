@@ -1,4 +1,4 @@
-function  sumOfOther(arr) {
+module.exports = function sumOfOther(arr = []) {
 
     let all = arr.reduce(function(sum, current) {
         return sum + current;
@@ -14,3 +14,4 @@ function  sumOfOther(arr) {
     return arr1;
 
 }
+

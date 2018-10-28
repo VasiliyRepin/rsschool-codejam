@@ -1,0 +1,22 @@
+{
+  "name": "sumOfOther",
+  "version": "1.0.0",
+  "description": "Calculete the sum!",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasiliyRepin/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasiliyRepin/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/VasiliyRepin/rsschool-codejam#readme",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
